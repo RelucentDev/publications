@@ -5,6 +5,14 @@ Contributors.
 
 > See the hosted publications at <https://accordion.relucent.dev>.
 
+We do our best to ensure that changes to content within this repository are
+reflected online as quickly as possible but, in the meantime, feel free to
+[open a discussion](https://github.com/Relucent-Software/publications/discussions)
+about any further ideas.
+
+Discussions in relation to your publications should be done in your Pull
+Request, regardless of whether its a Draft Pull Request.
+
 ## Contributing
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started

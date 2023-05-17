@@ -7,7 +7,7 @@ Contributors.
 
 ## License
 
-Creative Commons Attribution 4.0 &copy; Relucent Ltd & Contributors
+[Creative Commons Attribution 4.0](LICENSE) &copy; Relucent Ltd & Contributors
 
 ### Contact
 

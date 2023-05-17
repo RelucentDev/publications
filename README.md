@@ -1,4 +1,7 @@
-# Open-Source Publications by Relucent and Credited Contributors
+# Open-Source Publications
+
+This repository contains the open-source publications by Relucent and Credited
+Contributors.
 
 > See the hosted publications at <https://accordion.relucent.dev>.
 

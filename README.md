@@ -1,6 +1,6 @@
 # Open-Source Publications
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/Relucent-Software/.github/blob/master/.github/CODE_OF_CONDUCT.md)
 
 This repository contains the open-source publications by Relucent and Credited
 Contributors.

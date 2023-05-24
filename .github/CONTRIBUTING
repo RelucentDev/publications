@@ -1,0 +1,75 @@
+# Publications Contributions Guide
+
+Thank you for investing your time into this project. Any contribution you make
+will be reflected at <https://accordion.relucent.dev> in due course if
+accepted.
+
+When contributing to this repository, please first discuss the change you wish
+to make via an issue with the owners and maintainers of this repository before
+making a change.
+
+Please note that we have a code of conduct, please follow it in all of your
+interactions with the project.
+
+> To get started with a contribution via Pull Request, please see
+> [GitHub's Collaborating with Pull Requests Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
+
+## Issues
+
+Issues are very important to the development of this project. We suggest that
+they should be used for:
+
+- Any ideas that you would like to see us look into or include in this project.
+- Problems, incorrect information, or lack of information.
+- Questions regarding details or information presented.
+- Discussions regarding a publication you would like to add to this project.
+- Discussions regarding publications you would like removed from this project.
+- Or other similar such interactions.
+
+## Pull Requests
+
+Pull requests are the main way for us to review and include your own
+publications. When deciding on whether a certain publication will be included
+in this project we will look at the following:
+
+- **Is the publication informative?** We are looking for informative
+  publications that don't constitute promotion or advertisement.
+- **Is the publication relevant?** We are looking for new contributions to be
+  up to date - that's not so say that publications can't reference historical
+  details, such as past data breaches for example, but new contributions should
+  have some current relevance and usefulness.
+- **Is the publication unbiased?** We are looking for publications that don't
+  obviously prefer or present bias towards any product, organisation, or
+  otherwise such that the publication specifically promotes the subject. This,
+  however, doesn't prevent nor restrict the publishing of publications in the
+  form of product-specific guides, reports or details regarding events or
+  information that may negatively reflect on subject parties (such that the
+  details and/or information presented are true and reference other credible
+  sources).
+- **Is the publication of a good quality?** When reviewing a publication we
+  will look at the spelling and grammar of its wording, in addition to looking
+  at how it reads and how concise the information is.
+- **Is the publication legal to publish?** We will look at the legality of
+  publishing the information you provide. This may include, but is not limited
+  to: copyright infringement, attribution, and licensing.
+- **Is the publication truthful or source-backed?** We will look at whether the
+  publication is truthful and backed by adequate credible sources.
+
+## Paths & Directories
+
+The following format should be used for paths and directories, relative to the content directory:
+
+`{ISO-639-1-Code}-YYYY-MM-DD-{PUBLICATION-TITLE}/`
+
+The noted
+[ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+should be a two-letter code per the specification.
+
+- `assets/` Any images, videos, documents (etc.) relating to the individual publication.
+- `index.md` The publication's main content.
+
+> For reused assets, please see [`content/assets/`](content/assets).
+
+## References
+
+- [The GitHub Markdown Reference](https://github.com/github/docs/blob/main/contributing/content-markup-reference.md)

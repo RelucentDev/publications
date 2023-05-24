@@ -3,7 +3,8 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/Relucent-Software/.github/blob/master/.github/CODE_OF_CONDUCT.md)
 
 This repository contains the open-source publications by Relucent and Credited
-Contributors.
+Contributors relating to technology - be that software, hardware,
+specifications, reports, advice, or anything else fitting.
 
 > See the hosted publications at <https://accordion.relucent.dev>.
 
@@ -17,7 +18,7 @@ Request, regardless of whether its a Draft Pull Request.
 
 ## Contributing
 
-See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started
+See [the contributing guide](.github/CONTRIBUTING) for detailed instructions on how to get started
 with a contribution to this project.
 
 > See the [`content/`](content/) directory for the publications' content.
